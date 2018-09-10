@@ -2,5 +2,3 @@
 WTE_client——客户端<br>
 WTE_server——服务器<br>
 WTE_sql——数据库的创建文件<br>
-
-https://code.ziqiangxuetang.com/django/django-queryset-api.html
